@@ -17,5 +17,9 @@ if (count==2){
  if(ans==true){
  console.log("Prime");
  }else{
+
+ 
+
  console.log("Not Prime");
+
 }
